@@ -1,7 +1,23 @@
 ﻿
 Console.WriteLine("\n## Exercicio 1 ##\n");
 
-var chevrolet = new Carro("Onix", "Chevrolet", "Hatch", 2022, 110);
+var chevrolet = new Carro();
+
+Console.WriteLine("Digite o modelo do carro:\n");
+chevrolet.Modelo = Console.ReadLine();
+
+Console.WriteLine("Digite a montadora do carro:\n");
+chevrolet.Montadora = Console.ReadLine();
+
+Console.WriteLine("Digite a categoria carro:\n");
+chevrolet.Categoria = Console.ReadLine();
+
+Console.WriteLine("Digite o ano carro:\n");
+chevrolet.Ano = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Digite a potência carro:\n");
+chevrolet.Potencia = Convert.ToInt32(Console.ReadLine());
+
 Console.WriteLine($"O primeiro carro escolhido é o {chevrolet.Modelo}, um {chevrolet.Categoria} da {chevrolet.Montadora}, ano {chevrolet.Ano} com {chevrolet.Potencia} CV.\n");
 chevrolet.Acelear();
 
@@ -14,6 +30,10 @@ Console.ReadKey();
 
 public class Carro
 {
+    public Carro()
+    {
+
+    }
 
     public Carro(string? Modelo, string? Montadora, string? Categoria, int Ano, int Potencia)
     {

@@ -3,21 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Métodos", "Classes_Métodos\Classes_Métodos.csproj", "{93135B65-5779-449D-9508-06F28AD26586}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Métodos", "Classes_Métodos\Classes_Métodos.csproj", "{93135B65-5779-449D-9508-06F28AD26586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Métodos", "Métodos\Métodos.csproj", "{443B31DC-2A42-4B54-9927-EAAF6C05454E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Métodos", "Métodos\Métodos.csproj", "{443B31DC-2A42-4B54-9927-EAAF6C05454E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MétodosComParâmetros", "MétodosComParâmetros\MétodosComParâmetros.csproj", "{7444E4EA-0F30-481D-AB96-FBC7F541FF70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MétodosComParâmetros", "MétodosComParâmetros\MétodosComParâmetros.csproj", "{7444E4EA-0F30-481D-AB96-FBC7F541FF70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassandoParâmetrosEntreClasses", "PassandoParâmetrosEntreClasses\PassandoParâmetrosEntreClasses.csproj", "{1F6F7B0D-3305-4A95-934D-9C74942284BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassandoParâmetrosEntreClasses", "PassandoParâmetrosEntreClasses\PassandoParâmetrosEntreClasses.csproj", "{1F6F7B0D-3305-4A95-934D-9C74942284BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorI", "ConstrutorI\ConstrutorI.csproj", "{588F46A4-083F-443D-83F8-7164F818BF1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstrutorI", "ConstrutorI\ConstrutorI.csproj", "{588F46A4-083F-443D-83F8-7164F818BF1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorII", "ConstrutorII\ConstrutorII.csproj", "{E99D72BA-C687-43EE-AABE-BE348BB63C9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstrutorII", "ConstrutorII\ConstrutorII.csproj", "{E99D72BA-C687-43EE-AABE-BE348BB63C9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", "{16B9A3C3-B4A0-4E01-AE82-1E3B2FE30AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", "{16B9A3C3-B4A0-4E01-AE82-1E3B2FE30AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCICIO_I", "EXERCICIO_I\EXERCICIO_I.csproj", "{C48E71E4-2187-4F45-8472-1D2CAC7AEE06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXERCICIO_I", "EXERCICIO_I\EXERCICIO_I.csproj", "{C48E71E4-2187-4F45-8472-1D2CAC7AEE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Método_Com_Retorno", "Método_Com_Retorno\Método_Com_Retorno.csproj", "{8A5858C1-81A7-48D3-9459-A9D3F186C405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCICIO_II", "EXERCICIO_II\EXERCICIO_II.csproj", "{A36C1CEA-130F-488B-8620-93C5903D044D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaDeMétodos", "SobrecargaDeMétodos\SobrecargaDeMétodos.csproj", "{F0DDA3E1-5C9C-46DD-8F66-EA1C5D593C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXEMPLO_PRÁTICO_I", "EXEMPLO_PRÁTICO_I\EXEMPLO_PRÁTICO_I.csproj", "{7EE442B9-B862-42EB-BD2F-4CE18C985363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassandroArgumentosPorValor", "PassandroArgumentosPorValor\PassandroArgumentosPorValor.csproj", "{EC1ADB48-FC7E-40E3-A239-01E6AE19F94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassandoArgumentosPorReferencia", "PassandoArgumentosPorReferencia\PassandoArgumentosPorReferencia.csproj", "{9D2FCACC-2E87-423C-BA7A-AE9F0866A913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCICIO_III", "EXERCICIO_III\EXERCICIO_III.csproj", "{C1B9C074-BD9B-45FF-82F5-AAB12A0B4E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{F2FD1AF0-4C52-42DF-B347-B1FD72D793D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +73,38 @@ Global
 		{C48E71E4-2187-4F45-8472-1D2CAC7AEE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48E71E4-2187-4F45-8472-1D2CAC7AEE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48E71E4-2187-4F45-8472-1D2CAC7AEE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5858C1-81A7-48D3-9459-A9D3F186C405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5858C1-81A7-48D3-9459-A9D3F186C405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5858C1-81A7-48D3-9459-A9D3F186C405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5858C1-81A7-48D3-9459-A9D3F186C405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36C1CEA-130F-488B-8620-93C5903D044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36C1CEA-130F-488B-8620-93C5903D044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36C1CEA-130F-488B-8620-93C5903D044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36C1CEA-130F-488B-8620-93C5903D044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DDA3E1-5C9C-46DD-8F66-EA1C5D593C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DDA3E1-5C9C-46DD-8F66-EA1C5D593C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DDA3E1-5C9C-46DD-8F66-EA1C5D593C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DDA3E1-5C9C-46DD-8F66-EA1C5D593C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE442B9-B862-42EB-BD2F-4CE18C985363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE442B9-B862-42EB-BD2F-4CE18C985363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE442B9-B862-42EB-BD2F-4CE18C985363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE442B9-B862-42EB-BD2F-4CE18C985363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1ADB48-FC7E-40E3-A239-01E6AE19F94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1ADB48-FC7E-40E3-A239-01E6AE19F94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1ADB48-FC7E-40E3-A239-01E6AE19F94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1ADB48-FC7E-40E3-A239-01E6AE19F94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2FCACC-2E87-423C-BA7A-AE9F0866A913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2FCACC-2E87-423C-BA7A-AE9F0866A913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2FCACC-2E87-423C-BA7A-AE9F0866A913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2FCACC-2E87-423C-BA7A-AE9F0866A913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B9C074-BD9B-45FF-82F5-AAB12A0B4E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B9C074-BD9B-45FF-82F5-AAB12A0B4E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B9C074-BD9B-45FF-82F5-AAB12A0B4E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B9C074-BD9B-45FF-82F5-AAB12A0B4E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FD1AF0-4C52-42DF-B347-B1FD72D793D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FD1AF0-4C52-42DF-B347-B1FD72D793D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FD1AF0-4C52-42DF-B347-B1FD72D793D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FD1AF0-4C52-42DF-B347-B1FD72D793D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
