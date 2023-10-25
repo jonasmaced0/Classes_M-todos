@@ -1,7 +1,7 @@
 ﻿
 Console.WriteLine("## PASSAGEM DE ARGUMENTOS POR VALOR E REFERÊNCIA ##");
 
-// Exemplo de passagem de arguemento por referencia.
+// Exemplo de passagem de arguemento por referencia com REF
 
 int x = 20;
 Console.WriteLine($"\nO valor do argumento x antes de passar por valor: {x}");
